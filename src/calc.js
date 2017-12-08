@@ -29,3 +29,4 @@ function calculatrice(signe, gauche, droite) {
         return null;
     }
 }
+-module.exports = calculatrice;
