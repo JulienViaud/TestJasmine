@@ -15,4 +15,3 @@ node {
       sh 'npm test'
     }
 }
-© 2017 GitHub, Inc.
